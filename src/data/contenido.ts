@@ -396,7 +396,8 @@ export const PRODUCCION: FotoGaleria[] = [
   },
 ];
 
-
+/* -----------------------------------------------------------------------------
+ * PREGUNTAS FRECUENTES
  * ⚠️ REVISAR las respuestas para que coincidan con las reglas reales del local
  *    (medios de pago, aviso de cancelación, tolerancia de demora).
  * -------------------------------------------------------------------------- */
