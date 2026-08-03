@@ -16,7 +16,7 @@ export const WHATSAPP = '5490000000000';
 /* -----------------------------------------------------------------------------
  * INSTAGRAM  ·  ⚠️ REEMPLAZAR por el usuario real (sin @)
  * -------------------------------------------------------------------------- */
-export const INSTAGRAM_USUARIO = 'nuevoefecto';
+export const INSTAGRAM_USUARIO = 'nuevo.efecto_peluquerias';
 export const INSTAGRAM = `https://instagram.com/${INSTAGRAM_USUARIO}`;
 
 /* -----------------------------------------------------------------------------
