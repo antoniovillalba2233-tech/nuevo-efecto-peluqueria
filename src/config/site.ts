@@ -11,7 +11,7 @@
  * Ejemplo para un celular de Buenos Aires: 5491122334455
  * ⚠️ REEMPLAZAR por el número real de WhatsApp del local.
  * -------------------------------------------------------------------------- */
-export const WHATSAPP = '5490000000000';
+export const WHATSAPP = '5491123381914';
 
 /* -----------------------------------------------------------------------------
  * INSTAGRAM  ·  ⚠️ REEMPLAZAR por el usuario real (sin @)
